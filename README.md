@@ -32,8 +32,8 @@ I believe in giving back to the community and improving collaboration skills thr
 
 | Icon | Contact Channel | Details |
 | :--- | :--- | :--- |
-| 💬 | **Ask me about** | Python, web development fundamentals, or getting started with open source. |
-| 📧 | **Email** | [Olanike750@gmail.com] |
+| 💬 | **Ask me about** | Python, web development fundamentals,Machine Learning  and also getting started with open source. |
+| 📧 | **Email** | [olanike750@gmail.com] |
 | 🔗 | **LinkedIn** | [https://www.linkedin.com/in/olaniyi-olanike/] |
 
 ---
