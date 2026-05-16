@@ -17,7 +17,7 @@ I am a passionate and dedicated developer focused on continuous improvement and 
 I am competent in the following languages and tools:
 
 * **Languages:** Python, JavaScript, HTML, CSS
-* **Frameworks & Libraries:** Pandas.
+* **Frameworks & Libraries:** Pandas, Numpy, Matplotlib
 * **Tools & Platforms:** Visual Studio Code, GitHub.
 
 ## 🌟 Open Source & Contributions
@@ -25,7 +25,7 @@ I am competent in the following languages and tools:
 I believe in giving back to the community and improving collaboration skills through open source.
 
 * My recent contributions have been to projects like **LearnLink**.
-* 🔎 I’m actively looking for **"good first issues"** in projects related to **machine learning data preprocessing, especially and Pandas.**
+* 🔎 I’m actively looking for **"good first issues"** in projects related to **machine learning data preprocessing, especially Pandas and Numpy.**
 
 
 ## 🤝 Let's Connect!
@@ -34,6 +34,6 @@ I believe in giving back to the community and improving collaboration skills thr
 | :--- | :--- | :--- |
 | 💬 | **Ask me about** | Python, web development fundamentals, or getting started with open source. |
 | 📧 | **Email** | [Olanike750@gmail.com] |
-| 🔗 | **LinkedIn** | [https://www.linkedin.com/in/olaniyi-olanike-166890352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] |
+| 🔗 | **LinkedIn** | [https://www.linkedin.com/in/olaniyi-olanike/] |
 
 ---
