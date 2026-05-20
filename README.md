@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Olaniyi Olanike (nike750)!
 
-### Enthusiasist | Learner | Contributor
+### Enthusiasist | Learner | Open Source Contributor
 
 ---
 
